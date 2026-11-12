@@ -1,0 +1,6 @@
+panel,source_notebook,source_cells_1_based,workflow
+3h - anatomical map,get_adata.ipynb,"60-61, 67",Preserve the original 13-cluster annotation and palette
+3h - cell types,c2loc_mouse_brain.ipynb,"4-20, 23-36, 57, 63-64","Reference fitting, spatial posterior and proportional dot allocation"
+3j,LWMH.ipynb,7-8,Three-capture control points; cubic display and quadratic distance curves
+3k,LWMH.ipynb,10-11,"Half-spot bins, Gaussian smoothing and quadratic profile interpolation"
+3m-n,get_adata.ipynb,38-39,"Gene-ID intersection, log2(total counts + 1), Pearson R and Gaussian KDE"

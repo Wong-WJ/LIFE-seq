@@ -1,0 +1,12 @@
+Panel,Source notebook,Source cells (1-based),Analysis
+Figure 4g,TBI-4.ipynb,1,Corrected DE membership from the final MA workflow
+Figure 4h,get_adata.ipynb,76–78,Saved marker order; batches 3/4 in the four-capture preprocessed object
+Figure 4i,TBI-4.ipynb,2–3,Archived GO BP statistics and original display transform
+Extended Data 1c,TBI-4.ipynb,8,Raw Section/Replica count matrices
+Extended Data 1d–e,get_adata.ipynb,81–82,"Pooled linear normalized means (10,000 per spot) and frozen transcript lengths"
+Extended Data 1f,LWMH.ipynb,"6, 8",Fixed Sham centerlines and distance-band algorithm
+Extended Data 1g,LWMH.ipynb,11,Raw-count half-spot binning; 100 µm pitch
+Extended Data 2a–b,MA_Gm_corrected_comparison.ipynb,3–4,Corrected Gm filter; frozen fitted statistics and MA abundance
+Extended Data 2c,TBI-4.ipynb,7,Correlation and labels from corrected shared-gene tables
+Extended Data 2d,TBI-4.ipynb,5,GO CC color encodes the original FDR display score
+Extended Data 2e,TBI-4.ipynb,4,GO MF original FDR display score

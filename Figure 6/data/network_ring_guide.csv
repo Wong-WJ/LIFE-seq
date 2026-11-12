@@ -1,0 +1,9 @@
+group,timepoint,radial_order_inside_to_out,inner_radius,outer_radius,marker_radius,time_marker_color
+Module activity (z),D0,1,0.71,0.742,0.726,#6589B5
+Module activity (z),D1,2,0.742,0.774,0.758,#8A80A9
+Module activity (z),D2,3,0.774,0.806,0.79,#B78D8D
+Module activity (z),D3,4,0.8059999999999999,0.838,0.822,#CB7867
+Within-domain Moran I,D0,1,0.865,0.897,0.881,#6589B5
+Within-domain Moran I,D1,2,0.897,0.929,0.913,#8A80A9
+Within-domain Moran I,D2,3,0.929,0.9610000000000001,0.9450000000000001,#B78D8D
+Within-domain Moran I,D3,4,0.961,0.993,0.977,#CB7867

@@ -1,0 +1,6 @@
+feature,population,quantile_low,quantile_high,vmin,vmax,cmap,n_spots,n_below_vmin,n_above_vmax,fallback,normalization,colorbar_shared_across_samples
+Fig6_injury_score,all10270 retained spots,0.01,0.99,-0.3907507539120871,1.3301749213504797,Spectral_r,10270,103,103,,normalize_total10000+log1p,True
+Hmox1,all10270 retained spots,0.01,0.99,0.0,2.5873469376370983,Spectral_r,10270,0,103,,normalize_total10000+log1p,True
+Lyz2,all10270 retained spots,0.01,0.99,0.0,3.031571287518332,Spectral_r,10270,0,103,,normalize_total10000+log1p,True
+Spp1,all10270 retained spots,0.01,0.99,0.0,3.99979782491468,Spectral_r,10270,0,103,,normalize_total10000+log1p,True
+Vim,all10270 retained spots,0.01,0.99,0.0,3.241847570024167,Spectral_r,10270,0,103,,normalize_total10000+log1p,True

@@ -1,0 +1,18 @@
+source,role,bytes,sha256,shape
+section vs/section vs_pp.h5ad,MA abundance and differential-expression reconstruction,235344436,ee4b433779b590e4a914f75b72695fe5ba04fb88f62c67ec6efd05453fc3b6c2,"(3108, 3591)"
+section vs/DEG_TBI_vs_Sham_section_Cleaned.csv,Fitted differential-expression statistics used for the GO query gene sets,1314055,1e1b437b40ea3f50b5f1c717ef7cc412448703d4d786aec4f30d77f0d44bbc81,
+section vs/section vs.h5ad,Raw-count gene-detection statistics,276992258,8e0957dcc516d9194e349ffd8038cb643d6cf2cb7db24abd8f4dfa388bd152e0,"(3108, 31082)"
+replica vs/replica vs_pp.h5ad,MA abundance and differential-expression reconstruction,440952308,ddfc205b9f35b7e800d09545ca0ec0c1feae8aea917a9f4e071b7b30fad2ede7,"(4496, 3551)"
+replica vs/DEG_TBI_vs_Sham_replica_Cleaned.csv,Fitted differential-expression statistics used for the GO query gene sets,1302847,5d26a32cd0c6e11d6511d3e841b935222cc0c182136c1551db05fbbe94d8fbd3,
+replica vs/replica vs.h5ad,Raw-count gene-detection statistics,310040812,63bb3ded3f63f11f58d45ddec525dba504ed19bc7dca68a4729a8ec31da5f8cd,"(4496, 30244)"
+Venn_Analysis/Enrichment_Data/GO_BP_Top20_Enrichment.csv,Enrichr GO statistics for the Section and Replica query sets,17978,8aa8bf69528bbda8964099088189a69ce7663a71ffb11f90bdbecdc72ba13719,
+Venn_Analysis/Enrichment_Data/GO_CC_Top20_Enrichment.csv,Enrichr GO statistics for the Section and Replica query sets,17640,e4431b8d2dbf9d3de3edfc0b62c12fa54d4767f7ab40e8e6b70c6618bfd9f623,
+Venn_Analysis/Enrichment_Data/GO_MF_Top20_Enrichment.csv,Enrichr GO statistics for the Section and Replica query sets,11676,745163b6a33c8fd117906d7321b341c01d27d4d67235123e57beccf61f53e52a,
+TBI-4/figures/Batch3_Cluster3_Top30_Upregulated_DEGs_Filtered.csv,Original cluster-3 marker order; first 20 displayed,2165,65f7007acab2226db324fcae29fc4fdd6cfa93c5e835362566aff2b4e7501e02,
+TBI-4/TBI-4_pp.h5ad,Frozen Leiden labels and regressed/scaled marker expression,794700872,7f0ae4ec8ade99495b3f7bd304c447e8815fc884d943b3f27e363b602d862660,"(7604, 3197)"
+TBI-4/TBI-4.h5ad,"Raw counts for Sham spatial profiles; per-spot 10,000 normalization for transcript-length summaries",584167526,a01316a01b8119fe51434bc399c1417701e3879198ee563fddb93be9b33eaeeb,"(7604, 28434)"
+mouse_gene_lengths.csv,Frozen gene-length annotation used by the original notebook,290613,777966186d92541a3d98377e06875ea1d79e01b74910bade4ca7e0fcfa1d7b56,
+get_adata.ipynb,Source analysis notebook,23777623,d1938c428b9d87f312bfac9ba15f9a9346e628f298b61af22687ecec924f3b20,
+TBI-4.ipynb,Source analysis notebook,978020,1a754425909b4e00e99a9c9152a833188d8f6b847628f8a559f081483b27a048,
+LWMH.ipynb,Source analysis notebook,6571249,126d2f1cb4436917ffff28de096de46366950944b8d4b717cff660d6cdb27daf,
+MA_Gm_corrected_comparison.ipynb,Gene-name filtering and MA plot implementation,18150,4cbfca3642479bdfb0532c8c015c80d3b16c559406fd6cd338ca91f21b5f9b1d,
